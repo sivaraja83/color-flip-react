@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-flip-react/static/css/main.819eb5cc.css",
+    "main.js": "/color-flip-react/static/js/main.e141669f.js",
+    "static/js/787.e577274b.chunk.js": "/color-flip-react/static/js/787.e577274b.chunk.js",
+    "index.html": "/color-flip-react/index.html",
+    "main.819eb5cc.css.map": "/color-flip-react/static/css/main.819eb5cc.css.map",
+    "main.e141669f.js.map": "/color-flip-react/static/js/main.e141669f.js.map",
+    "787.e577274b.chunk.js.map": "/color-flip-react/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.819eb5cc.css",
+    "static/js/main.e141669f.js"
+  ]
+}
